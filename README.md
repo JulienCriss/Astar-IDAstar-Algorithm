@@ -1,1 +1,1 @@
-# IDA-A-Algorithm
+# Astar-IDAstar-Algorithm
