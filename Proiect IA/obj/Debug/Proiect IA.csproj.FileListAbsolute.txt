@@ -1,0 +1,13 @@
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\IA\Proiect IA\Proiect IA\bin\Debug\Proiect IA.exe.config
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\IA\Proiect IA\Proiect IA\bin\Debug\Proiect IA.exe
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\IA\Proiect IA\Proiect IA\bin\Debug\Proiect IA.pdb
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\IA\Proiect IA\Proiect IA\obj\Debug\Proiect_IA.Form1.resources
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\IA\Proiect IA\Proiect IA\obj\Debug\Proiect_IA.Properties.Resources.resources
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\IA\Proiect IA\Proiect IA\obj\Debug\Proiect IA.csproj.GenerateResource.Cache
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\IA\Proiect IA\Proiect IA\obj\Debug\Proiect IA.exe
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\IA\Proiect IA\Proiect IA\obj\Debug\Proiect IA.pdb
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\IA\Proiect IA\Proiect IA\obj\Debug\Proiect IA.csprojResolveAssemblyReference.cache
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\IA\Proiect IA\Proiect IA\obj\Debug\Proiect_IA.AboutForm.resources
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\IA\Proiect final\Proiect IA\Proiect IA\bin\Debug\Proiect IA.exe.config
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\IA\Proiect final\Proiect IA\Proiect IA\obj\Debug\Proiect IA.exe
+C:\Users\Iulian\Desktop\ANUL 4\SEM1\IA\Proiect final\Proiect IA\Proiect IA\obj\Debug\Proiect IA.pdb
